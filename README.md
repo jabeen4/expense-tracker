@@ -4,7 +4,7 @@
 **Mariyam Jabeen M K**
 
 ## Overview
-This is a Spring Boot-based expense tracker application that helps users manage their expenses efficiently. The application provides functionalities to add, update, delete, and view expenses, along with category management.
+This is a Spring Boot-based expense tracker application that helps users manage their expenses efficiently. The application provides functionalities to add, update, delete, and view expenses, along with category management.I have leveraged Spring Boot, Spring JPA, Hibernate, PostgreSQL, Spring Security for this project
 
 ## Technologies Used
 - **Backend:** Spring Boot, Java
